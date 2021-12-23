@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "개발했떤 엔지니어"
+title                    : "개발했떤엔지니어"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "임준혁"
-description              : "개발, 솔루션 등 IT 공부하는 블로그"
+description              : "IT 공부하는 블로그"
 url                      : "https://joonhyeok95.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "joonhyeok95/joonhyeok95.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "임준혁"
   avatar           : #"/assets/images/bio-photo.jpg"
-  bio              : "웹, 안드로이드 개발을 할 줄 아는 **솔루션엔지니어**, TA(technical architect)를 꿈꾸는 사람."
+  bio              : "개발을 할 줄 아는 **엔지니어**."
   location         : "Incheon"
   email            : "dkttkemf@naver.com"
   links:

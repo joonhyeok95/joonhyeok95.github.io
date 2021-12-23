@@ -20,11 +20,18 @@ foo:
 
 # main links
 main:
+  - title: "Blog"
+    url: /blog/
   - title: "WebMaster"
+    url: /categories/
   - title: "Android"
+    url: /blog/
   - title: "Spring"
+    url: /blog/
   - title: "PaaS"
+    url: /blog/
   - title: "VM Ware"
+    url: /blog/
   # - title: "About"
   #   url: /about/
   # - title: "Sample Posts"
